@@ -1,0 +1,4 @@
+osc-lib
+openstacksdk
+python-openstackclient
+wheel==0.23.0
